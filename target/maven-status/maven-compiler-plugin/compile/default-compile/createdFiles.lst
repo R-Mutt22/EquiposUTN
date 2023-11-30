@@ -1,0 +1,8 @@
+javautn\futbolutn\persistencia\ControladoraPersistencia.class
+javautn\futbolutn\persistencia\exceptions\PreexistingEntityException.class
+javautn\futbolutn\persistencia\exceptions\IllegalOrphanException.class
+javautn\futbolutn\FutbolUtn.class
+javautn\futbolutn\persistencia\exceptions\NonexistentEntityException.class
+javautn\futbolutn\logica\Equipo_.class
+javautn\futbolutn\persistencia\EquipoJpaController.class
+javautn\futbolutn\logica\Equipo.class
